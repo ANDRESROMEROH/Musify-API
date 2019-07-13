@@ -1,0 +1,13 @@
+
+use musify
+
+db.artists.save({
+    name: 'Dellafuente',
+    description: 'Trap',
+    image: 'null'
+});
+
+db.artists.find();
+
+show dbs;
+
