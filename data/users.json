@@ -1,0 +1,14 @@
+[
+    {
+        "_id": {
+            "$oid": "5bf9b8716dd2951decf3438e"
+        },
+        "name": "Andres",
+        "surname": "Romero",
+        "email": "andres.romero22@outlook.com",
+        "role": "ROLE_USER",
+        "image": null,
+        "password": "$2a$10$rvLEB7AcdD8DlAE833lhP.UyTHv83y1p09e9EI9ZYrC8E4jII0XmS",
+        "__v": 0
+    }
+]

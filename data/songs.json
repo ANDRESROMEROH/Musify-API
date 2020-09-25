@@ -1,0 +1,15 @@
+[
+    {
+        "_id": {
+            "$oid": "5c03f7ab765f0237cc7be4c9"
+        },
+        "number": "1",
+        "name": "Yellow",
+        "duration": "4:33",
+        "file": "RAXzpMF7vbWp10494AIDJVIh.mp3",
+        "album": {
+            "$oid": "5c03f64c0b1153277894b680"
+        },
+        "__v": 0
+    }
+]

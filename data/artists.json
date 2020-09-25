@@ -1,0 +1,47 @@
+[
+    {
+        "_id": {
+            "$oid": "5bf9df69bb1a4b29609b0670"
+        },
+        "name": "Blink-182",
+        "image": "A8iWtBfzAjtUoZ1iT5mDPucU.jpg",
+        "__v": 0,
+        "description": "Best Punk Rock Band."
+    },
+    {
+        "_id": {
+            "$oid": "5bf9e21c7d60841ec01a7977"
+        },
+        "name": "Twenty One Pilots",
+        "image": "null",
+        "__v": 0,
+        "description": "TOP Music."
+    },
+    {
+        "_id": {
+            "$oid": "5bf9e4c951c09c3fe8b200bd"
+        },
+        "name": "Eminem",
+        "image": "null",
+        "__v": 0,
+        "description": "RAP GOD."
+    },
+    {
+        "_id": {
+            "$oid": "5bf9e4d851c09c3fe8b200be"
+        },
+        "name": "Coldplay",
+        "image": "null",
+        "__v": 0,
+        "description": "Coldplay Music."
+    },
+    {
+        "_id": {
+            "$oid": "5bf9f0250de8153068af5c19"
+        },
+        "name": "Skrillex",
+        "description": "Electro Music.",
+        "image": "null",
+        "__v": 0
+    }
+]

@@ -1,0 +1,15 @@
+[
+    {
+        "_id": {
+            "$oid": "5c03f64c0b1153277894b680"
+        },
+        "title": "Parachutes",
+        "description": "#1 Coldplay Album",
+        "year": 2000,
+        "image": "null",
+        "artist": {
+            "$oid": "5bf9e4d851c09c3fe8b200be"
+        },
+        "__v": 0
+    }
+]
